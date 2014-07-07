@@ -44,7 +44,7 @@ gem 'bcrypt-ruby', '3.1.2'
 gem 'pry-debugger', group: :development
 
 group :development, :test do
-  gem 'rspec-rails', '2.13.1'
+  gem "rspec-rails", '~> 2.14.0.rc1'
   gem 'guard-rspec', '2.5.0'
   gem 'spork-rails', '4.0.0'
 end
