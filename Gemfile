@@ -29,6 +29,7 @@ gem 'spring',        group: :development
 
 gem 'bcrypt-ruby', '3.1.2'
 gem 'faker', '1.1.2'
+gem 'will_paginate', '3.0.4'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
