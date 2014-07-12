@@ -1,4 +1,4 @@
-<h1>Rails Tutorial</h1>
+# Rails Tutorial
 
 Ruby on Rails Tutorial: Twitter app
 
