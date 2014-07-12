@@ -1,4 +1,4 @@
-railstutorial
+rails-tutorial
 ============
 
 Ruby on Rails Tutorial: Twitter app
