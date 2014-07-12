@@ -1,5 +1,4 @@
-rails-tutorial
-============
+<h1>Rails Tutorial</h1>
 
 Ruby on Rails Tutorial: Twitter app
 
